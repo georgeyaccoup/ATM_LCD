@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dipoet</class>
+ <widget class="QDialog" name="Dipoet">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1101</width>
+    <height>751</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(:/new/prefix1/ATM/New folder/New folder/istockphoto-1290079940-612x612.jpg);
+border-image: url(:/new/prefix1/ATM/New folder/New folder/istockphoto-610263734-612x612.jpg);</string>
+  </property>
+  <widget class="QLineEdit" name="Amount_1">
+   <property name="geometry">
+    <rect>
+     <x>770</x>
+     <y>300</y>
+     <width>261</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 900 18pt &quot;Segoe UI Black&quot;;
+</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>980</x>
+     <y>250</y>
+     <width>31</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 700 34pt &quot;Segoe UI&quot;;
+color: rgb(100, 15, 55);</string>
+   </property>
+   <property name="text">
+    <string>$</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>80</x>
+     <y>270</y>
+     <width>721</width>
+     <height>101</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 700 42pt &quot;Segoe UI&quot;;
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Please enter the amount :</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>1090</x>
+     <y>560</y>
+     <width>191</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 700 24pt &quot;Segoe UI&quot;;
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>&lt;Go back </string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>1090</x>
+     <y>660</y>
+     <width>191</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 700 24pt &quot;Segoe UI&quot;;
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Next &gt;</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>230</x>
+     <y>710</y>
+     <width>841</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 700 20pt &quot;Segoe UI&quot;;
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Please not the amount you withdrowing is between [50 :2000] $</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>1090</x>
+     <y>610</y>
+     <width>191</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">border-image: url(:/1/ATM/ATM_data.xlsx);
+font: 700 24pt &quot;Segoe UI&quot;;
+color: rgb(0, 0, 0);</string>
+   </property>
+   <property name="text">
+    <string>Cancel </string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

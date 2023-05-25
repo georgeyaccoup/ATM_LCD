@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>intro_page</class>
+ <widget class="QMainWindow" name="intro_page">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1027</width>
+    <height>805</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>intro_page</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">border-image: url(:/new/prefix1/ATM/New folder/New folder/istockphoto-1152049211-612x612.jpg);</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <property name="styleSheet">
+    <string notr="true"/>
+   </property>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>590</x>
+      <y>420</y>
+      <width>231</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(0, 85, 127);
+font: 600 italic 28pt &quot;Sitka Small Semibold&quot;;
+border-image: url(:/1/ATM/Black Screen 10 seconds.mp4);
+
+</string>
+    </property>
+    <property name="text">
+     <string>log In</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>266</y>
+      <width>341</width>
+      <height>34</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/1/ATM/Black Screen 10 seconds.mp4);
+font: 700 19pt &quot;Segoe UI&quot;;
+font: 300 19pt &quot;Segoe UI Variable Small Light&quot;;
+font: 700 25pt &quot;Segoe UI&quot;;
+color: rgb(250, -100, 107);</string>
+    </property>
+    <property name="text">
+     <string>Account Number :</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>340</y>
+      <width>251</width>
+      <height>34</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">border-image: url(:/1/ATM/Black Screen 10 seconds.mp4);
+font: 700 22pt &quot;Segoe UI&quot;;
+color: rgb(500,100, 50);</string>
+    </property>
+    <property name="text">
+     <string>Password :</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="Account">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>306</y>
+      <width>431</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(0, 0, 0);
+font: 11pt &quot;Segoe UI&quot;;
+border-image: url(:/1/ATM/Black Screen 10 seconds.mp4);
+
+
+</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="Password">
+    <property name="geometry">
+     <rect>
+      <x>490</x>
+      <y>380</y>
+      <width>441</width>
+      <height>28</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">color: rgb(0, 0, 0);
+font: 11pt &quot;Segoe UI&quot;;
+border-image: url(:/1/ATM/Black Screen 10 seconds.mp4);
+
+
+image: url(:/1/ATM/Black Screen 10 seconds.mp4);</string>
+    </property>
+    <property name="echoMode">
+     <enum>QLineEdit::Password</enum>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

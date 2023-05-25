@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/new/prefix2">
+        <file>ATM/New folder/1120x292.webp</file>
+        <file>ATM/New folder/6310f7b33d53bbb79acca723_Neobanks.webp</file>
+        <file>ATM/New folder/1680587015043.png</file>
+        <file>ATM/New folder/20210526182322_indasaccounts.jpg</file>
+        <file>ATM/New folder/banking_trends_thumb-1.webp</file>
+        <file>ATM/New folder/Challenger-Banks-Final.jpg</file>
+        <file>ATM/New folder/grafika_banking.png</file>
+        <file>ATM/New folder/Maximize-Reach.png</file>
+        <file>ATM/New folder/shutterstock_1457363834-897x500.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix3">
+        <file>ATM/note/Last Week.txt</file>
+        <file>ATM/note/last Year.txt</file>
+        <file>ATM/note/last Month.txt</file>
+        <file>ATM/note/Help.txt</file>
+        <file>ATM/note/Accounts.txt</file>
+        <file>ATM/note/Passwords.txt</file>
+    </qresource>
+    <qresource prefix="/new/prefix1">
+        <file>ATM/New folder/New folder/credit-card-2010884_960_720.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-463322437-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-492599192-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-513131138-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-610263734-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-931500642-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-935291514-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-935294300-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-935729208-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-936744994-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-944997360-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1131788406-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1152049211-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1162303706-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1162304086-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1170700236-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1201078773-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1218533856-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1290079940-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1304684791-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1307245503-612x612 (1).jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1307245503-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1317264991-612x612.jpg</file>
+        <file>ATM/New folder/New folder/istockphoto-1436548235-612x612.jpg</file>
+    </qresource>
+</RCC>
